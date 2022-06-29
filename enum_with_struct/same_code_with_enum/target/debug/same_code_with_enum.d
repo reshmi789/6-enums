@@ -1,0 +1,1 @@
+/home/allena/Desktop/Practice_project/enums/enum_with_struct/same_code_with_enum/target/debug/same_code_with_enum: /home/allena/Desktop/Practice_project/enums/enum_with_struct/same_code_with_enum/src/main.rs
